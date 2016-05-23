@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character>
+    <name>Quinn</name>
+    <race>Halfling</race>
+    <class>Warlock</class>
+    <level>4</level>
+
+    <str>8</str>
+    <dex>14</dex>
+    <con>14</con>
+    <int>13</int>
+    <wis>10</wis>
+    <cha>18</cha>
+
+    <align>N</align>
+    <background>Urchin</background>
+    <faction>None</faction>
+    <age>25</age>
+    <height>2'11"</height>
+    <weight>39 lbs.</weight>
+    <eyes>Hazel</eyes>
+    <hair>Dark Brown</hair>
+    <skin>Light Tan</skin>
+    <personality>I think anyone who's nice to me is hiding evil intent.</personality>
+    <ideals>I help the people who help me - that's what keeps up alive.</ideals>
+    <bonds>My city is my home, and I'll fight to defend it.</bonds>
+    <flaws>I will never fully trust anyone other than myself.</flaws>
+
+    <ac>13</ac>
+    <spd>25 ft.</spd>
+    <hd>d8</hd>
+    <savs>-1\n+2\n+2\n+1\n+2\n+6</savs>
+    <skls>+2\n+0\n+3\n-1\n+6\n+1\n+0\n+4\n+1\n+0\n+1\n+0\n+4\n+4\n+1\n+4\n+4\n+0</skls>
+
+</character>
